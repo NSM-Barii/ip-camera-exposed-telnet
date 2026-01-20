@@ -1,0 +1,12 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-01-19 19:37 -0500
+Illegal character(s) in hostname -- replacing with '*'
+Illegal character(s) in hostname -- replacing with '*'
+Nmap scan report for *.lan*guest*wan (192.168.1.172)
+Host is up (0.0011s latency).
+
+PORT   STATE SERVICE VERSION
+23/tcp open  telnet  BusyBox telnetd
+Service Info: Host: Ingenic-uc1_1
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.16 seconds
