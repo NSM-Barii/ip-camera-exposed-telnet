@@ -14,7 +14,7 @@ vulnerability report.
 - **Vendor:** Adorcam  
 - **Product:** Adorcam Indoor Camera  
 - **Amazon Listing:** https://www.amazon.com/dp/B0FHFQRSY7  
-- **Firmware:** Factory firmware (exact version not disclosed to the user)  
+- **Firmware:** 1.00.11 (Factory firmware)  
 - **Category:** Consumer IP Camera / IoT Device  
 
 ---
